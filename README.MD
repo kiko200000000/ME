@@ -69,3 +69,6 @@ MainSection:NewDropdown("Gun Mod", "Makes the gun op", {"M9", "Remington 870", "
         module["AutoFire"] = true
     end
 end)
+
+
+MainSection:NewLabel("Thanks for using our script :)!")
